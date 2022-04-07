@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 Sobre mi:
 
-- 🙋‍♂️ Todo sobre mí está en **[Mi Portfolio](https://github.com/cristiandjr/portfolio)**
+- 🙋‍♂️ Todo sobre mí está en **[Mi Portfolio](https://cristiandjr.github.io/portfolio)**
 - 🔭 Actualmente estoy trabajando en `FIT`.
 - 🌱 Actualmente estoy aprendiendo `MERN Stack`
 - 👯 busco colaborar en `Proyectos de desarrollo`
 - 🤔 Estoy buscando ayuda con `Desarrollar la creatividad`
-- 💬 Pregúntame sobre cualquier cosa, estos dispuesto ayudar! :sweat_smile:
+- 💬 Pregúntame sobre cualquier cosa, estos dispuesto ayudar!
 - 👨‍💻 Todo lo que aprendo me gusta compartilo
 - ⚡ Me gusta jugar, entrenar, comer bien, aprender, leer
 
