@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 Sobre mi:
 
-- 🙋‍♂️ Todo sobre mí está en **[Mi Portfolio](http://www.cristiandjr.com)**
+- 🙋‍♂️ Todo sobre mí está en **[Mi Portfolio](cristiandjr.com)**
 - 🔭 Actualmente estoy trabajando en `FIT`.
 - 🌱 Actualmente estoy aprendiendo `MERN Stack`
 - 👯 busco colaborar en `Proyectos de desarrollo`
