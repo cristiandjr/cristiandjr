@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 👨🏻‍💻 Sobre mi:
 
 - 🙋‍♂️ Todo sobre mí está en **[Mi Portfolio](https://cristiandjr.github.io/portfolio/)**
-- 🔭 Actualmente estoy trabajando en `FYS`.
+- 🔭 Actualmente estoy trabajando en `CEBRA 🦓`.
 - 🌱 Actualmente estoy aprendiendo `MERN Stack`
 - 💬 Pregúntame sobre cualquier cosa, estoy dispuesto ayudar!
 - 👨‍💻 Todo lo que aprendo me gusta compartilo
