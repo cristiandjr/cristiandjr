@@ -36,7 +36,6 @@ Soy un **Desarrollador Full Stack** con un enfoque en **Frontend**. Me especiali
 
 - ✉️ **Email:** [cristiandjr89@gmail.com](mailto:cristiandjr89@gmail.com)
 - 💼 **LinkedIn:** [Cristian Ríos](https://www.linkedin.com/in/cristiandjr/)
-- 🖥️ **Portfolio:** [Mi Portfolio]([https://cristiandjr.github.io/portfolio/](https://cristiandjr.vercel.app/))
 - 📱 **WhatsApp:** [Envíame un mensaje](https://wa.me/541153115561?text=Hola%20Cristian,%20me%20gustar%C3%ADa%20hablar%20contigo%20sobre%20un%20proyecto.)
 - 🐙 **GitHub:** [cristiandjr](https://github.com/cristiandjr)
 
